@@ -2,7 +2,7 @@
 
 ## 1. Users
 
-- Admin <br/>They have many right as:<br/>
+- Admin <br/>They have specific rights as:<br/>
   - Add/delete train information
   - Cancel reservation for all other users ...
 
